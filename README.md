@@ -3,15 +3,15 @@
 This repo hosts **only signed release builds** of My Voice, a local-first
 voice dictation app (Windows + Android). Source code is private.
 
-## Latest release: v1.0.0 (Windows + Android)
+## Latest release: v1.0.1 (Windows + Android)
 
 Grab your platform's build from the
 [Releases page](https://github.com/mrkolince-developer/flowlocal-app/releases/latest):
 
-- **Android**: `My-Voice-1.0.0-arm64.apk` — install directly (allow
+- **Android**: `My-Voice-1.0.1-arm64.apk` — install directly (allow
   "unknown sources" if prompted), or update over a previous install.
-- **Windows**: `My.Voice_1.0.0_x64-setup.exe` (installer, recommended) or
-  `My.Voice_1.0.0_x64_en-US.msi`.
+- **Windows**: `My.Voice_1.0.1_x64-setup.exe` (installer, recommended) or
+  `My.Voice_1.0.1_x64_en-US.msi`.
 
 ## First run
 
