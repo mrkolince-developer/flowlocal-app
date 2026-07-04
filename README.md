@@ -3,15 +3,15 @@
 This repo hosts **only signed release builds** of FlowLocal, a local-first
 voice dictation app (Windows + Android). Source code is private.
 
-## Latest release: v0.7.2 (Windows + Android)
+## Latest release: v0.8.0 (Windows + Android)
 
 Grab your platform's build from the
 [Releases page](https://github.com/mrkolince-developer/flowlocal-app/releases/latest):
 
-- **Android**: `FlowLocal-0.7.2-arm64.apk` — install directly (allow
+- **Android**: `FlowLocal-0.8.0-arm64.apk` — install directly (allow
   "unknown sources" if prompted), or update over a previous install.
-- **Windows**: `flowlocal_0.7.2_x64-setup.exe` (installer, recommended) or
-  `flowlocal_0.7.2_x64_en-US.msi`.
+- **Windows**: `flowlocal_0.8.0_x64-setup.exe` (installer, recommended) or
+  `flowlocal_0.8.0_x64_en-US.msi`.
 
 ## First run
 
