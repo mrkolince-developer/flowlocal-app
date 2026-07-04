@@ -10,8 +10,8 @@ Grab your platform's build from the
 
 - **Android**: `My-Voice-1.0.0-arm64.apk` — install directly (allow
   "unknown sources" if prompted), or update over a previous install.
-- **Windows**: `My Voice_1.0.0_x64-setup.exe` (installer, recommended) or
-  `My Voice_1.0.0_x64_en-US.msi`.
+- **Windows**: `My.Voice_1.0.0_x64-setup.exe` (installer, recommended) or
+  `My.Voice_1.0.0_x64_en-US.msi`.
 
 ## First run
 
